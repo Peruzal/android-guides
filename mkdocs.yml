@@ -1,6 +1,7 @@
 site_name: Android Mobile App Development Guide
 theme:
   name: 'material'
+  custom_dir: 'theme'
   palette:
     primary: 'amber'
     accent: 'deep orange'
@@ -16,11 +17,16 @@ site_url: https://guides.peruzal.com/xamarin-forms-guide
 repo_url: https://github.com/Peruzal/xamarin-forms-guide
 repo_name: Github
 
+extra_javascript:
+  - 'assets/js/utils.js'
+  - 'assets/js/mixpanel.js'
+  - 'assets/js/track.js'
+  - 'assets/js/drift.js'  
 
 
-google_analytics:
-  - 'UA-40772582-8'
-  - 'auto'
+# google_analytics:
+#   - 'UA-40772582-8'
+#   - 'auto'
 
 extra:
   disqus: 'xamarin-guides'  

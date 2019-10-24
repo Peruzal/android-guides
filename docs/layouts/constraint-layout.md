@@ -604,7 +604,7 @@ Using all the information, lets create the following login screen using a constr
 
 #### Add image background
 
-<img src="img/constraint-layout-image-background.png" width="250" alt="Image background" >
+<img src="../img/constraint-layout-image-background.png" width="250" alt="Image background" >
 
 Start by constraining the image view as follows :
 
@@ -665,7 +665,7 @@ Description | Constraint |
 
 We will use four guidelines to align our views again. A top, bottom, start and end guide.
 
-<img src="img/constraint-guidelines.png" width="250" alt="Vertical and horizontal guidelines" >
+<img src="../img/constraint-guidelines.png" width="250" alt="Vertical and horizontal guidelines" >
 
 Add the following xml :
 
@@ -718,7 +718,7 @@ Add the following xml for the image view :
 
 ### Add a title text view
 
-<img src="img/constraint-layout-title.png" width="250" alt="Constraint Title Text View" >
+<img src="../img/constraint-layout-title.png" width="250" alt="Constraint Title Text View" >
 
 The title should be centered against the image view and also add constraint bias to pull it a bit up as follows :
 
@@ -750,7 +750,7 @@ Add the following xml :
 
 ### Add input fields
 
-<img src="img/constraint-layout-text-input-fields.png" width="250" alt="Constrain text input fields">
+<img src="../img/constraint-layout-text-input-fields.png" width="250" alt="Constrain text input fields">
 
 Add the two input fields for the username password. Add the following xml :
 
@@ -809,7 +809,7 @@ android {
 
 ### Add Login Button
 
-<img src="img/constraint-login-login-button.png" width="250" alt="Constraint login button">
+<img src="../img/constraint-login-login-button.png" width="250" alt="Constraint login button">
 
 Add the login button. The button have some styles applied to make it transparent.
 
@@ -852,7 +852,7 @@ and here is the xml for `drawable/button_transparent_background` background :
 
 ### Add the centered OR text view
 
-<img src="img/constraint-or-textview.png" width="250" alt="Constraint centered text view">
+<img src="../img/constraint-or-textview.png" width="250" alt="Constraint centered text view">
 
 We need to add a text view that holds the OR text and also have two views to the left and right. To achieve that, we will need to center the left view bottom to the top and bottom of the OR text and do the same for the right view as well.
 
@@ -897,7 +897,7 @@ Add the following xml :
 
 ### Add the Facebook and Google Login Buttons
 
-<img src="img/constraint-login-screen.png" width="250" alt="Login screen with constraint layout">
+<img src="../img/constraint-login-screen.png" width="250" alt="Login screen with constraint layout">
 
 Last add the two buttons for Facebook and Google login. 
 

@@ -1,6 +1,5 @@
 description: Common Intents
 
-
 # Common Implicit Intents
 
 Let's take a look at the most common implicit intents such as making a phone call, launching a web address, sending an email, etc.

@@ -76,7 +76,7 @@ An ImageView can display an image differently based on the `scaleType` provided.
 
 **Note:** The `fitXY` scale type allows you to set the exact size of the image in your layout. However, be mindful of potential distortions of the image due to scaling. If you’re creating a photo-viewing application, you will probably want to use the `center` or `fitCenter` scale types.
 
-<img src="https://images.thoughtbot.com/blog-vellum-image-uploads/wDbiaqGSQyyErtXGSh6w_scaletype.png" width="600"/>
+<img src="https:/images.thoughtbot.com/blog-vellum-image-uploads/wDbiaqGSQyyErtXGSh6w_scaletype.png" width="600"/>
 
 Refer to this [ImageView ScaleType visual guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide) for additional reference. **Remember** that if you wish to match the aspect ratio of the actual drawable, `adjustViewBounds=true` must be declared along with not defining an explicit width and/or height.
 

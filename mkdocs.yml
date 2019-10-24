@@ -41,18 +41,18 @@ extra:
     - type: 'twitter'
       link: 'https://twitter.com/peruzal'
 
-pages:
+nav:
  - Getting Started: index.md 
  - Android Project Structure: project-structure.md
- - Android Components: android-components.md
+#  - Android Components: android-components.md
  - Understanding App Resources: android-resources.md
  - Android Common View:
    - View Attributes: android-common-views/view-attributes.md
    - TextView: android-common-views/textview.md
    - Button: android-common-views/button.md
-   - Floating Action Bar: android-common-views/floating-action-bar.md
+  #  - Floating Action Bar: android-common-views/floating-action-bar.md
    - EditText: android-common-views/edittext.md
-   - TextInputEdit: android-common-views/text-input-edit.md
+  #  - TextInputEdit: android-common-views/text-input-edit.md
    - ImageView: android-common-views/image-view.md
    - ImageButton: android-common-views/image-button.md
    - RadioButton: android-common-views/radio-button.md
@@ -64,14 +64,14 @@ pages:
    - RatingBar: android-common-views/rating-bar.md
    - ProgressBar: android-common-views/progress-bar.md
    - SearchView: android-common-views/search-view.md
-   - DatePicker: android-common-views/date-picker.md
-   - ExoPlayer: android-common-views/exo-player.md
+  #  - DatePicker: android-common-views/date-picker.md
+  #  - ExoPlayer: android-common-views/exo-player.md
  - Layouts:
    - Layouts Overview: layouts/overview.md
    - Linear Layout: layouts/linear-layout.md
    - Relative Layout: layouts/relative-layout.md
    - Frame Layout: layouts/frame-layout.md
-   - Constraint Layout: layouts/constraint-layout.md
+  #  - Constraint Layout: layouts/constraint-layout.md
    - Optimizing Layout Performance: layouts/layout-prformance.md
  - Activities: activities.md
  - Navigation:
@@ -83,20 +83,20 @@ pages:
    - Navigation and Task Stacks: navigation/task-stacks.md
    - Common Intents: navigation/common-intents.md
  - Fragments: fragments.md
- - Displaying Dialogs and Pickers: dialogs-pickers.md
+#  - Displaying Dialogs and Pickers: dialogs-pickers.md
  - Common Intents: common-intents.md
  - Understanding Android Permissions: android-permissions.md
  - Networking: networking.md
- - Persistence:
-    - Shared Preferences: persistence/shared-preferences.md 
-    - Storing Data with SQLite: persistence/sqlite.md
-    - Sharing Data with Content Provider: persistence/content-providers.md
-    - Loading Data with Loaders: persistence/loaders.md
- - Styles and Themes: styles-themes.md
- - Animation: animation.md
- - Local Notifications: location-notifications.md
- - Remote Notifications: remote-notifications.md
- - Common Libraries: common-libraries.md
- - Working Maps and Location: maps-location.md
- - UI Testing with Espresso: espresso.md
- - Deploying the App: deployment.md
+#  - Persistence:
+#     - Shared Preferences: persistence/shared-preferences.md 
+#     - Storing Data with SQLite: persistence/sqlite.md
+#     - Sharing Data with Content Provider: persistence/content-providers.md
+#     - Loading Data with Loaders: persistence/loaders.md
+#  - Styles and Themes: styles-themes.md
+#  - Animation: animation.md
+#  - Local Notifications: location-notifications.md
+#  - Remote Notifications: remote-notifications.md
+#  - Common Libraries: common-libraries.md
+#  - Working Maps and Location: maps-location.md
+#  - UI Testing with Espresso: espresso.md
+#  - Deploying the App: deployment.md

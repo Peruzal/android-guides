@@ -2,7 +2,7 @@ description: Android Project Structure
 
 # Android Project Structure
 
-![Android App Project Structure](/images/android-app-project-structure.png)
+![Android App Project Structure](images/android-app-project-structure.png)
 
 Within an Android app project structure, the most frequently edited folders are:
 

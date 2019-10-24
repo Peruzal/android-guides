@@ -71,8 +71,8 @@ nav:
    - Linear Layout: layouts/linear-layout.md
    - Relative Layout: layouts/relative-layout.md
    - Frame Layout: layouts/frame-layout.md
-  #  - Constraint Layout: layouts/constraint-layout.md
-   - Optimizing Layout Performance: layouts/layout-prformance.md
+   - Constraint Layout: layouts/constraint-layout.md
+   - Optimizing Layout Performance: layouts/layout-performance.md
  - Activities: activities.md
  - Navigation:
    - Common Navigation Patterns: navigation/common-navigation-patterns.md

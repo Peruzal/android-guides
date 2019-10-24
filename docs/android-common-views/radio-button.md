@@ -4,7 +4,7 @@ description: RadioButton
 
 Radio buttons allow the user to select one option from a set. You should use radio buttons for optional sets that are mutually exclusive if you think that the user needs to see all available options side-by-side. If it's not necessary to show all options side-by-side, use a spinner instead.
 
-![Radio Buttons](images/radio-buttons.png)
+![Radio Buttons](../images/radio-buttons.png)
 
 
 To create each radio button option, create a RadioButton in your layout. However, because radio buttons are mutually exclusive, you must group them together inside a RadioGroup. By grouping them together, the system ensures that only one radio button can be selected at a time.

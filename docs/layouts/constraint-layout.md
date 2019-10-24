@@ -931,9 +931,9 @@ Add the following xml :
     android:layout_height="wrap_content" />
 ```
 
-[1]: images/linear-layout.png
-[2]: images/linear-layout-horizontal.png
-[3]: images/linear-layout-weight.png
-[4]: images/linear-layout-weight-demo.png
-[5]: images/constraint-layout-vertical-weight.png
-[6]: images/constraint-vertical-horizontal-guideline.png
+[1]: ../images/linear-layout.png
+[2]: ../images/linear-layout-horizontal.png
+[3]: ../images/linear-layout-weight.png
+[4]: ../images/linear-layout-weight-demo.png
+[5]: ../images/constraint-layout-vertical-weight.png
+[6]: ../images/constraint-vertical-horizontal-guideline.png

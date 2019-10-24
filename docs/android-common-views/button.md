@@ -8,7 +8,7 @@ There are three standard types of buttons:
 - `Raised button`: A typically rectangular material button that lifts and displays ink reactions on press.
 - `Flat button`: A button made of ink that displays ink reactions on press but does not lift.
 
-![Button Types](images/buttons.png)
+![Button Types](../images/buttons.png)
 
 To create a button with text, use the following XML :
 
@@ -30,7 +30,7 @@ If we want the button's width to be the same as its parent, we would change the 
 
 In Android Studio, we can preview the effect of the `wrap_content` property on the width of the button.
 
-![View Properties](images/view-properties.png)
+![View Properties](../images/view-properties.png)
 
 ### Drawables on buttons
 
